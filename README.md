@@ -1,2 +1,2 @@
 # MLB-win-prediction
-We analyzed team statistics to figure out which factors influence number of wins and help a team to advance into playoffs. This paper will go into details of the dataset, statistical model used to analyze the data, and a discussion about test results. We will conclude by stating how game statistics can be used to influence coaches in preparation for next season.
+We analyzed team statistics from 2008 season to figure out which factors influence a team's number of wins and help them to advance into playoffs. A research paper is included in the repository to explain the details of this project and justifications for the outcomes.
